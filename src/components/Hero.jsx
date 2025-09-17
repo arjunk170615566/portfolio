@@ -3,10 +3,12 @@ import { motion } from "framer-motion";
 
 export default function Hero() {
   const words = [
+    "Web Developer",
+    "Game Developer",
     "C++ Developer",
     "Python Programmer",
-    "Web Developer",
     "AI/ML Enthusiast",
+    "Tech enthusiast",
   ];
 
   const [currentWord, setCurrentWord] = useState("");
@@ -50,7 +52,7 @@ export default function Hero() {
     >
       {/* Profile Image */}
       <motion.img
-        src="ak.png" // 👉 yaha apna image dalna
+        src="akm.png" // 👉 yaha apna image dalna
         alt="Profile"
         className="w-32 h-32 rounded-full border-4 border-pink-400 shadow-lg "
         initial={{ scale: 0 }}
