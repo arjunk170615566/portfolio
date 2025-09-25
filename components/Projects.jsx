@@ -20,6 +20,16 @@ const projects = [
     tags: ["HTML", "CSS", "JavaScript", "MySQL", "PHP"],
     demoLink: "https://www.linkedin.com/posts/arjun-kumar-b607392b6_innovation-customerexperience-activity-7243143973135945728-vGIw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEvtajgBT7FSINyo4Qd7NoJatxSuA0Q3I-8",
   },
+  {
+    title: "3D Shooting Game in unreal Engine",
+    shortDesc: "AI/ML-powered system using Computer Vision",
+    longDesc:
+      "💡 This project has been a huge learning experience for me, especially in understanding how Blueprints work for building gameplay systems.",
+    date: "Septamber 2025",
+    tags: ["Blueprints", "Core gameplay logic built entirely with Blueprint"
+, "Unreal engine", "Models"],
+    codeLink: "https://github.com/arjunk170615566/automatic-car-parking-entry-exit-system",
+  },
 ];
 
 export default function Projects() {

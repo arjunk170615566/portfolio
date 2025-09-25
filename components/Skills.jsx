@@ -6,7 +6,7 @@ export default function Skills() {
     { name: "Python", level: 80, color: "bg-orange-500" },
     { name: "JavaScript", level: 75, color: "bg-yellow-400" },
     { name: "Java", level: 70, color: "bg-pink-400" },
-    { name: "Unreal Engine ", level: 85, color: "bg-blue-500" },
+    { name: "Unreal Engine ", level: 60, color: "bg-blue-500" },
     { name: "HTML/CSS", level: 85, color: "bg-sky-400" },
     { name: "React", level: 75, color: "bg-orange-400" },
     { name: "MySQL", level: 70, color: "bg-red-400" },
